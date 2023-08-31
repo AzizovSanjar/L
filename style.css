@@ -1,0 +1,11 @@
+button{
+    padding: 20px;
+    font-size: 20px;
+    border: 2px solid green;
+    color: rgb(74, 91, 50);
+    margin-top: 40px;
+}
+
+#addButton{
+    padding: 5px;
+}
